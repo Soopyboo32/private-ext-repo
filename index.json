@@ -2,10 +2,9 @@
   {
     "name": "Tachiyomi: SoopyManga",
     "pkg": "eu.kanade.tachiyomi.extension.en.soopymanga",
-    "apk": "tachiyomi-en.soopymanga-v1.4.9.apk",
+    "apk": "tachiyomi-en.soopymanga-v1.4.10.apk",
     "lang": "en",
-    "code": 9,
-    "version": "1.4.9",
+    "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
