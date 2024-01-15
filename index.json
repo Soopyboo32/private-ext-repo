@@ -4,6 +4,7 @@
     "pkg": "eu.kanade.tachiyomi.extension.en.soopymanga",
     "apk": "tachiyomi-en.soopymanga-v1.4.10.apk",
     "lang": "en",
+    "code": 10,
     "version": "1.4.10",
     "nsfw": 0,
     "hasReadme": 0,
