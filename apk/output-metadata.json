@@ -11,9 +11,9 @@
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 16,
-      "versionName": "1.4.16",
-      "outputFile": "tachiyomi-en.soopymanga-v1.4.16-release.apk"
+      "versionCode": 17,
+      "versionName": "1.4.17",
+      "outputFile": "tachiyomi-en.soopymanga-v1.4.17-release.apk"
     }
   ],
   "elementType": "File"
