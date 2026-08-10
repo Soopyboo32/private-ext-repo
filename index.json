@@ -1,23 +1,32 @@
-[
-  {
-    "name": "Tachiyomi: SoopyManga",
-    "pkg": "eu.kanade.tachiyomi.extension.en.soopymanga",
-    "apk": "tachiyomi-en.soopymanga-v1.4.24.apk",
-    "lang": "en",
-    "code": 24,
-    "version": "1.4.24",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
+{
+  "name": "SoopyManga",
+  "badgeLabel": "SOOPY",
+  "signingKey": "2a104627b6ed61a00c3709e66673c45bb7a35c104d897072d58d73b4ea6cca5b",
+  "contact": {
+    "website": "https://github.com/Soopyboo32/private-ext-repo"
+  },
+  "extensionList": {
+    "extensions": [
       {
         "name": "SoopyManga",
-        "lang": "en",
-        "id": "9083274087230487234",
-        "baseUrl": "http://34.151.93.75:8080/",
-        "versionId": 1,
-        "hasCloudflare": 0
+        "packageName": "eu.kanade.tachiyomi.extension.en.soopymanga",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/Soopyboo32/private-ext-repo/master/apk/tachiyomi-en.soopymanga-v1.4.24.apk",
+          "iconUrl": "https://raw.githubusercontent.com/Soopyboo32/private-ext-repo/master/icon/eu.kanade.tachiyomi.extension.en.soopymanga.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "24",
+        "versionName": "1.4.24",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "9083274087230487234",
+            "name": "SoopyManga",
+            "language": "en",
+            "homeUrl": "http://34.151.93.75:8080/"
+          }
+        ]
       }
     ]
   }
-]
+}
